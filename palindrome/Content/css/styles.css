@@ -1,0 +1,11 @@
+body{
+  background-color: grey;
+  font-family: 'Oxygen Mono', monospace;
+}
+#first{
+  color:red;
+}
+
+#second{
+  color: blue;
+}
